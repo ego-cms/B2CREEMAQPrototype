@@ -3,3 +3,8 @@
 ################################################################################
 
 /B2CPrototype/B2CPrototype/obj
+/.vs/B2CPrototype
+/B2CPrototype/B2CPrototype.Android/obj
+/B2CPrototype/B2CPrototype.iOS/obj
+/B2CPrototype/B2CPrototype.Android/Resources/Resource.designer.cs
+/B2CPrototype/B2CPrototype.Android/Resources/AboutResources.txt
